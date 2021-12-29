@@ -1,0 +1,5 @@
+Helper Bot 
+
+-> It helps user to stay motivated by providing them with quotes from Internet using API from zen quotes
+-> User can simultaneously add motivating words 
+-> bot responds whenever user types any sad or depressing words (example -> "sad","depressed","unhappy","angry","miserable","depressing","not good",)
